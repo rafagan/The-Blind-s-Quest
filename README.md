@@ -6,4 +6,6 @@ This game opened a new category of ascii-art based games in "Tecnologia em Jogos
 
 Very ugly code, but very nice game (one of my preferred of all until nowadays).
 
-Developed in Visual Studio 2011, using MSVC++ 10.0.
+To run, open the .exe (Windows only) in exe folder. Maybe you'll need to install the C++ 10 redistributable package to open the game: https://www.microsoft.com/en-us/download/details.aspx?id=5555
+
+Developed in Visual Studio 2011, using MSVC++ 10.0 under Apache License version 2.
